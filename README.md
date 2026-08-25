@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> Recommend new arxiv papers of your interest daily according to your Zotero library.
+<p align="center"> Recommend new arxiv papers of your interest daily according to your Zotero library
     <br> 
 </p>
 
